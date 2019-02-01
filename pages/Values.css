@@ -1,0 +1,12 @@
+table{
+	font-size:20px;
+	
+}
+td{
+	padding-bottom:30px;
+	padding-right:50px;
+}
+.submit,.back{
+	width:200px;
+	height:40px;
+}
